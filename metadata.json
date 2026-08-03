@@ -1,0 +1,6 @@
+{
+  "name": "Sardor Portfolio",
+  "description": "Sophisticated dark developer portfolio featuring interactive project showcases, toolkit explorer, motion details, and contact experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
